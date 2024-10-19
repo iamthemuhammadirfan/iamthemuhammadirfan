@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building high-performance mobile and web applications with React, React Native, and Node.js, while improving user experience through innovative features.<br><br>👯 I’m looking to collaborate on: Open-source projects related to mobile app development, backend systems, or real-time data handling, especially those involving JavaScript technologies.<br><br>🤝 I’m looking for help with: Scaling large React Native projects and optimizing complex back-end systems for better performance.<br><br>🌱 I’m currently learning: Advanced cloud architecture with AWS and exploring new features in TypeScript for improving code robustness and maintainability.<br><br>💬 Ask me about: Full-stack development, building scalable mobile apps, or integrating payment gateways like Stripe, Apple Pay, and Google Pay.<br><br>⚡ Fun fact: I once reduced a company's operational costs by 10% by integrating vehicle and fuel monitoring features in mobile apps!
+🔭 Currently working on: Building seamless mobile apps with React Native and backend systems with Node.js.
+👯 Looking to collaborate on: Innovative mobile app projects focused on fintech, logistics, or real-time features.
+🤝 Need help with: Advanced state management and scaling high-traffic React Native apps.
+🌱 Currently exploring: New testing strategies with Jest and cloud integrations using AWS.
+💬 Ask me about: Creating user-friendly apps, integrating secure payment systems, and optimizing app performance.
+⚡ Fun fact: I increased user engagement by 15% with a revamped UI for a crypto wallet app!
 
 
 ## 🌐 Socials:
