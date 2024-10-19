@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Currently working on: Building seamless mobile apps with React Native and backend systems with Node.js.
-👯 Looking to collaborate on: Innovative mobile app projects focused on fintech, logistics, or real-time features.
-🤝 Need help with: Advanced state management and scaling high-traffic React Native apps.
-🌱 Currently exploring: New testing strategies with Jest and cloud integrations using AWS.
-💬 Ask me about: Creating user-friendly apps, integrating secure payment systems, and optimizing app performance.
+🔭 Currently working on: Building seamless mobile apps with React Native and backend systems with Node.js.</br>
+👯 Looking to collaborate on: Innovative mobile app projects focused on fintech, logistics, or real-time features.</br>
+🤝 Need help with: Advanced state management and scaling high-traffic React Native apps.</br>
+🌱 Currently exploring: New testing strategies with Jest and cloud integrations using AWS.</br>
+💬 Ask me about: Creating user-friendly apps, integrating secure payment systems, and optimizing app performance.</br>
 ⚡ Fun fact: I increased user engagement by 15% with a revamped UI for a crypto wallet app!
 
 
