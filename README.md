@@ -1,4 +1,4 @@
-# 💫 About Me:<br><br>🔭 Currently: Architecting high-performance mobile solutions for Fintech & Logistics<br>     at Fasset (handling $1M+ weekly volume).<br>👯 Collaborating on: High-scale React Native projects, focusing on performance<br>     optimization and modular architecture.<br>⚡ Impact: Delivered 15+ production apps, slashed release cycles to 7 days, and<br>     boosted engagement by 30% via UX/UI revamps.<br>🌱 Learning: Advanced Cloud Architectures (AWS) and Deep-level Native Modules<br>     (Swift/Kotlin).
+💫 About Me:<br><br>🔭 Currently: Architecting high-performance mobile solutions for Fintech & Logistics<br>     at Fasset (handling $1M+ weekly volume).<br>👯 Collaborating on: High-scale React Native projects, focusing on performance<br>     optimization and modular architecture.<br>⚡ Impact: Delivered 15+ production apps, slashed release cycles to 7 days, and<br>     boosted engagement by 30% via UX/UI revamps.<br>🌱 Learning: Advanced Cloud Architectures (AWS) and Deep-level Native Modules<br>     (Swift/Kotlin).
 
 
 ## 🌐 Socials:
